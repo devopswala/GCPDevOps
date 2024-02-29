@@ -1,2 +1,2 @@
 # GCPDevOps
-This is a DevOps Project in GCP
+This is a DevOps Project in GCP.
